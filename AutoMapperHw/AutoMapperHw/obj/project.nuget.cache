@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wxJnLzybz96GALsu7JC8RnwxqZYGGZ+LDegXjSivhdpHmB0RAlCzk63hhXbpZfVtdfqHLEPEzkdZEhTOSOmuuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nyekruh\\source\\repos\\AutoMapperHw\\AutoMapperHw\\AutoMapperHw.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nyekruh\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Nyekruh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
